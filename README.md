@@ -1,4 +1,4 @@
-# anrsmis
+# Flutter Localization in Amharic/አማርኛ and English
 
 A new Flutter application.
 
